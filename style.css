@@ -1,0 +1,13 @@
+header{
+    background:url(img/banner.jpg);    
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center top;
+    height:20rem;
+    width: 100%;
+    
+}
+
+header img{
+
+}
